@@ -1,4 +1,4 @@
-# C Programming Beginners 🚀
+# C Programming 🚀
 
 A comprehensive collection of C programming examples, exercises, and projects for beginners. This repository contains well-organized code examples covering fundamental C programming concepts from basic syntax to advanced topics.
 
@@ -86,7 +86,6 @@ Dynamic memory allocation:
 Complete application projects:
 - **Hospital Management System** - Comprehensive medical records management
 - **Student Management System** - Student information and grade management
-- **Simple Calculator** - Basic arithmetic calculator
 
 ## 🛠️ How to Use
 
@@ -167,10 +166,6 @@ Feel free to contribute by:
 - Reporting issues
 - Suggesting new topics
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🚀 Getting Started
 
 1. Clone this repository
@@ -182,4 +177,4 @@ Happy Coding! 💻✨
 
 ---
 
-**Note**: This repository is designed for educational purposes and contains beginner-friendly C programming examples.
+**Note**: This repository is designed for educational purposes and contains beginner-friendly C programming examples. 
